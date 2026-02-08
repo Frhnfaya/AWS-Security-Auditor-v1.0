@@ -55,12 +55,14 @@ Active AWS account
 IAM user with SecurityAudit policy (or equivalent read-only permissions)
 
 🚀 Quick Start
+
 1. Clone the Repository
-bashgit clone https://github.com/farhan/aws-security-auditor.git
+bashgit clone (https://github.com/Frhnfaya/AWS-Security-Auditor-v1.0.git)
+
 cd aws-security-auditor
-2. Install Dependencies
+3. Install Dependencies
 bashpip install -r requirements.txt
-3. Configure AWS Credentials
+4. Configure AWS Credentials
 bashaws configure
 # Enter your Access Key ID
 # Enter your Secret Access Key  
